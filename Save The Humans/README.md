@@ -11,3 +11,8 @@
 - Move the human to the black and white gradient portal.
 - Every level up (When the human pass in the portal) a new Alien is born!
 - Try to run from there!
+
+
+## Version
+
+- 1.0 Version.
