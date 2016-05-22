@@ -1,4 +1,4 @@
-# Save The Humans 
+
 ![Image of Alien](http://s32.postimg.org/ymvl8flh1/Save_The_Humans.png)
 ## ¿What is it? :alien:
 - Drag & Drop Game
